@@ -224,3 +224,15 @@ body {
   color: #333333;
   margin: 0;
 }
+
+/* copy */
+.copy-container {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+}
+
+#copy {
+  font-style: italic;
+  font-size: 16px;
+}
