@@ -158,3 +158,17 @@ body {
   margin: 0;
   font-size: 20px;
 }
+
+/* #education */
+#education .topic {
+  margin: 0;
+  padding: 0;
+  font-size: 20px;
+  font-weight: 500;
+}
+
+#education .year,
+#education .institution {
+  margin: 0;
+  font-size: 20px;
+}
