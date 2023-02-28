@@ -198,3 +198,29 @@ body {
   line-height: 36px;
   margin: 0;
 }
+
+/* #work-experience */
+#work-experience .content {
+  row-gap: 32px;
+}
+
+#work-experience .topic {
+  font-size: 24px;
+  font-weight: 500;
+  margin: 0;
+}
+
+#work-experience .date-company {
+  color: black;
+  margin: 0;
+}
+
+#work-experience .description {
+  color: #333333;
+  margin: 0;
+}
+
+#work-experience .details {
+  color: #333333;
+  margin: 0;
+}
