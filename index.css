@@ -71,7 +71,7 @@ body {
   color: black;
 }
 
-.guide .button-download {
+.guide #button-download {
   background: none;
   border: none;
   padding: 0;
