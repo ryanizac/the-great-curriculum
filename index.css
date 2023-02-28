@@ -142,6 +142,12 @@ body {
 
 /* left-bar */
 /* #contact */
+.left-bar {
+  display: flex;
+  flex-direction: column;
+  gap: 32px;
+}
+
 #contact ul {
   margin: 0;
   list-style-type: none;
