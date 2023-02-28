@@ -82,3 +82,52 @@ body {
   width: 12px;
   height: 22px;
 }
+
+/* presentation */
+.presentation {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 64px;
+}
+
+.presentation .content {
+  width: 100%;
+  display: flex;
+}
+
+.presentation img {
+  width: 200px;
+  height: 200px;
+  border-radius: 100px;
+  margin-right: 32px;
+}
+
+.presentation .who-i-am {
+  width: 100%;
+}
+
+.presentation h1 {
+  font-size: 64px;
+  font-weight: 400;
+  margin: 0;
+  margin-bottom: 8px;
+}
+
+.presentation h2 {
+  font-size: 24px;
+  font-weight: 400;
+  margin: 0;
+}
+
+.presentation .external-links {
+  display: flex;
+  flex-direction: column;
+  align-self: flex-end;
+}
+
+.presentation .external-links a {
+  text-decoration: none;
+  color: black;
+}
