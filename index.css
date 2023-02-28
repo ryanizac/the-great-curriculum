@@ -141,14 +141,6 @@ body {
   font-size: 20px;
 }
 
-#contact ul li {
-  margin-bottom: 16px;
-}
-
-#contact ul li:last-child {
-  margin-bottom: 0;
-}
-
 #contact a {
   text-decoration: none;
   color: black;
