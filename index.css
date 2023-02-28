@@ -1,0 +1,22 @@
+/* Reset CSS */
+* {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  margin: 0 auto;
+  max-width: 1000px;
+  margin-top: 100px;
+}
+
+@media screen and (max-width: 1040px) {
+  .container {
+    max-width: calc(100% - 40px);
+  }
+}
