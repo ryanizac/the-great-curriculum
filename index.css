@@ -24,3 +24,26 @@ body {
     max-width: calc(100% - 40px);
   }
 }
+
+/* Guide */
+.guide .close-guide {
+  background: none;
+  border: none;
+  padding: 0;
+  font-size: 16px;
+  font-weight: 400;
+  font-style: italic;
+}
+
+.guide ul {
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+  display: flex;
+  column-gap: 32px;
+}
+
+.guide a {
+  text-decoration: none;
+  color: black;
+}
