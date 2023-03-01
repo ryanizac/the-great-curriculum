@@ -22,7 +22,7 @@ buttonDownloadElement.addEventListener("click", async () => {
     width: 180,
     windowWidth: 1000,
     callback: function (doc) {
-      doc.save("sample-document.pdf");
+      doc.save("ryanizac-curriculum.pdf");
     },
   });
 });
